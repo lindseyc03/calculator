@@ -8,4 +8,6 @@
 * divide 
 
 * **square root**
-* 
+* *power* 
+
+"I love calculators"
